@@ -1,5 +1,7 @@
 # Redux Friends
 
+Scott Grobe
+
 Topics:
 
 * React Router
